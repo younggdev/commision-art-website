@@ -40,3 +40,23 @@ Dibangun menggunakan **React (Vite)** dan bersifat **static website** — tanpa 
 git clone https://github.com/yourusername/commission-art-website.git
 cd commission-art-website
 ```
+
+2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+3️⃣ Run development server
+
+```bash
+npm run dev
+```
+
+## 📝 Lisensi
+
+**Artwork & desain UI 100% hak cipta pemilik/artis**
+
+**Tidak diperbolehkan mendistribusikan ulang karya tanpa izin**
+
+**Harap tetap mencantumkan credit jika melakukan referensi terhadap kode bagian tertentu 🙏**
