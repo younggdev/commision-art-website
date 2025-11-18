@@ -11,7 +11,7 @@ Dibangun menggunakan **React (Vite)** dan bersifat **static website** — tanpa 
 
 ## 🚀 Live Demo
 
-🔗 https://your-domain-link.com
+🔗 https://commissionstudio.vercel.app/
 
 ---
 
@@ -37,7 +37,7 @@ Dibangun menggunakan **React (Vite)** dan bersifat **static website** — tanpa 
 1️⃣ Clone repository
 
 ```bash
-git clone https://github.com/yourusername/commission-art-website.git
+git clone https://github.com/younggdev/commision-art-website
 cd commission-art-website
 ```
 
